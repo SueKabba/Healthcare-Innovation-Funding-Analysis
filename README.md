@@ -1,2 +1,2 @@
 # Healthcare-Innovation-Funding-Analysis
-Analyzing whether healthcare innovation funcding predicts projected saving, using CMS public data
+Analyzing whether healthcare innovation funding predicts projected saving, using CMS public data
