@@ -1,5 +1,3 @@
-# Healthcare-Innovation-Funding-Analysis
-
 # Evaluating Healthcare Innovation Investments and Their Expected Impact
 
 A data analysis project examining whether higher healthcare innovation funding is associated with greater projected savings, using a public CMS dataset.
